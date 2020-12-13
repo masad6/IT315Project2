@@ -4,7 +4,7 @@
 	{"name":"Buttery Mashed Potatoes",
 	"ingredients":"4 pounds Yukon Gold potatoes, peeled, cut into 2” pieces \n1 tablespoon kosher salt, plus more \n1½ cups whole milk \n3 sprigs thyme (optional) \n2 bay leaves \n¾ cup (1½ sticks) unsalted butter, plus more for serving \nFreshly ground black pepper",
 	"duration":1.0,
-	"steps" = "1) Drain potatoes, reserving ½ cup cooking liquid if making potatoes ahead. Return potatoes to pot and set over low heat. Gently stir until dry, about 1 minute. \n2) Meanwhile, heat milk, thyme sprigs (optional: bay leaves), and ¾ cup butter in a small saucepan over medium heat until butter is melted. Remove from heat. \n3) Pass hot potatoes through a ricer into a large bowl (if allowed to cool, the potatoes will become gummy). \n4) Remove herbs from warm milk mixture; discard. Gradually add milk mixture to potatoes; season.",
+	"steps":"1) Drain potatoes, reserving ½ cup cooking liquid if making potatoes ahead. Return potatoes to pot and set over low heat. Gently stir until dry, about 1 minute. \n2) Meanwhile, heat milk, thyme sprigs (optional: bay leaves), and ¾ cup butter in a small saucepan over medium heat until butter is melted. Remove from heat. \n3) Pass hot potatoes through a ricer into a large bowl (if allowed to cool, the potatoes will become gummy). \n4) Remove herbs from warm milk mixture; discard. Gradually add milk mixture to potatoes; season.",
 	"dishImage":"extra-buttery-mashed-spuds.jpg",
 	"recipeSite":"https://www.bonappetit.com/recipe/extra-buttery-mashed-potatoes"},
 
@@ -12,7 +12,7 @@
 	{"name":"Apple Cider",
 	"ingredients":"12 gala apples, or fuji apples, cored and cubed\n2Green apples, cored and cubed\n3 cinnamon sticks\n1 ginger, thumb sized, peeled\n2 teaspoons whole clove\n1 pinch kosher salt\n8 cups water\n1 cup brown sugar",
 	"duration":8.0,
-	"steps" = "1) Place the apples, cinnamon sticks, ginger, cloves, and salt in an 8-quart (7.5-liters) slow cooker. Pour the water over the apples.\n2) Cover and cook on high for at least 8 hours, or overnight (up to 24 hours).\n3) Remove the solids from the cider, pressing the pulp to extract as much liquid as possible.\n4) Whisk in the brown sugar until dissolved.\n5) Serve hot, or store in the refrigerator to serve later. Reheat before serving.",
+	"steps":"1) Place the apples, cinnamon sticks, ginger, cloves, and salt in an 8-quart (7.5-liters) slow cooker. Pour the water over the apples.\n2) Cover and cook on high for at least 8 hours, or overnight (up to 24 hours).\n3) Remove the solids from the cider, pressing the pulp to extract as much liquid as possible.\n4) Whisk in the brown sugar until dissolved.\n5) Serve hot, or store in the refrigerator to serve later. Reheat before serving.",
 	"dishImage":"AppleCider.png",
 	"recipeSite":"https://tasty.co/recipe/apple-cider"},
 
@@ -20,7 +20,7 @@
 	{"name":"Pumpkin Pancakes",
 	"ingredients":1 ¾ cup buttermilk\n1 ⅓ cup pumpkin puree\n2 tablespoon oil\n2 eggs\n1 teaspoon vanilla\n2 cups flour\n¼ cup brown sugar\n1 teaspoon baking powder\n½ teaspoon baking soda\n1 tablespoon pumpkin pie spice,
 	"duration":0.5,
-	"steps" = "1) Combine buttermilk, pumpkin puree, oil, eggs and vanilla in a bowl.\n2) Mix together flour, brown sugar, baking powder, baking soda and pumpkin pie spice in a large bowl.\n3) Make a well in the center of dry ingredients and pour wet ingredients. Mix just until combined.  Allow to rest about 10 minutes.\n4) Preheat a skillet or griddle to medium heat. Grease with butter or oil. Pour ¼ cup batter per pancake and gently spread with the back of a spatula.\n5) Cook until lightly browned.",
+	"steps":"1) Combine buttermilk, pumpkin puree, oil, eggs and vanilla in a bowl.\n2) Mix together flour, brown sugar, baking powder, baking soda and pumpkin pie spice in a large bowl.\n3) Make a well in the center of dry ingredients and pour wet ingredients. Mix just until combined.  Allow to rest about 10 minutes.\n4) Preheat a skillet or griddle to medium heat. Grease with butter or oil. Pour ¼ cup batter per pancake and gently spread with the back of a spatula.\n5) Cook until lightly browned.",
 	"dishImage":"PumpkinPancakes.jpg",
 	"recipeSite":"https://www.spendwithpennies.com/pumpkin-pancakes/"},
 
@@ -28,14 +28,14 @@
 	{"name":"Sweet Potato Bread",
 	"ingredients":"1 ½ cups flour\n½ cup whole wheat flour\n2 teaspoons baking powder\n½ teaspoon baking soda\n1 teaspoon cinnamon\n⅛ teaspoon salt\n¼ teaspoon ginger\n2 eggs\n½ teaspoon vanilla\n½ cup milk\n¼ cup oil\n⅔ cup sugar\n2 tablespoons honey\n1 cup sweet potato puree",
 	"duration":1.2,
-	"steps" = "1) Mix the dry ingredients then the wet ingredients separately.\n\n2) Then mix them together.\n\n3) Pour into a loaf pan\n\n4) Bake in the oven on 350°F (180°C) for 50 minutes to 1 hour.\n\n5) Optional : serve it with peanut butter.",
+	"steps":"1) Mix the dry ingredients then the wet ingredients separately.\n\n2) Then mix them together.\n\n3) Pour into a loaf pan\n\n4) Bake in the oven on 350°F (180°C) for 50 minutes to 1 hour.\n\n5) Optional : serve it with peanut butter.",
 	"dishImage":"SweetPotatoBread.png",
 	"recipeSite":"https://tasty.co/recipe/light-sweet-potato-cake"},
 
 	{"name":"Halloween Layered Dip",
 	"ingredients":"16 oz refried bean, 1 can\n½ cup salsa\n½ cup sour cream\n1 cup guacamole\n\nGARNISH\nlettuce\ntomato\n¼ cup black olive\ntorilla chip, to serve",
 	"duration":0.5,
-	"steps" = "1) In a bowl, mix the beans and salsa.\n2) Put the sour cream in a plastic bag. Cut off the end of one corner of the bag.\n3) Spread the bean mixture onto a plate. Spread guacamole over the beans.\n4) Pipe out a bullseye pattern of sour cream over the guacamole.\n5) Run a toothpick through the sour cream from the center outward, until it looks like a spiderweb.\n6) Garnish with lettuce, chopped tomatoes, and black olives. Serve with tortilla chips.",
+	"steps":"1) In a bowl, mix the beans and salsa.\n2) Put the sour cream in a plastic bag. Cut off the end of one corner of the bag.\n3) Spread the bean mixture onto a plate. Spread guacamole over the beans.\n4) Pipe out a bullseye pattern of sour cream over the guacamole.\n5) Run a toothpick through the sour cream from the center outward, until it looks like a spiderweb.\n6) Garnish with lettuce, chopped tomatoes, and black olives. Serve with tortilla chips.",
 	"dishImage":"HalloweenLayeredDip.png",
 	"recipeSite":"https://tasty.co/recipe/halloween-layered-dip"}
 	],
