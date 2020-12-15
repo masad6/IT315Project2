@@ -14,8 +14,14 @@
 	"duration":0.5,
 	"steps":"1) In a bowl, mix the beans and salsa.\n2) Put the sour cream in a plastic bag. Cut off the end of one corner of the bag.\n3) Spread the bean mixture onto a plate. Spread guacamole over the beans.\n4) Pipe out a bullseye pattern of sour cream over the guacamole.\n5) Run a toothpick through the sour cream from the center outward, until it looks like a spiderweb.\n6) Garnish with lettuce, chopped tomatoes, and black olives. Serve with tortilla chips.",
 	"dishImage":"https://raw.githubusercontent.com/masad6/IT315Project2/master/HalloweenLayeredDip.png",
-	"recipeSite":"https://tasty.co/recipe/halloween-layered-dip"}
-	],
+	"recipeSite":"https://tasty.co/recipe/halloween-layered-dip"},
+
+	{"name":"Instant Pot Risotto With Parmesan",
+	"ingredients":"1 tbsp. unsalted butter\n1 tbsp. olive oil\n1 medium onion, finely chopped\n2 cloves garlic, finely chopped\n1 1/2 c. Arborio rice\nKosher salt and pepper\n1/2 c. dry white wine\n3 1/2 c. low-sodium chicken broth\n1/2 c. freshly grated Parmesan, plus more for serving",
+	"duration":0.5,
+	"steps":"1) Press [Sauté] on an electric pressure cooker, adjust to medium and heat butter and oil with onion, then cook, stirring occasionally until tender, 6 minutes. Stir in garlic and cook 2 minutes.\n2) Stir in rice and 1 teaspoon salt and cook, stirring occasionally, until golden brown and toasted, 4 to 6 minutes. Add wine and cook until absorbed, about 1 minute. Stir in broth, press [Cancel].\n3) Lock the lid and cook on high pressure (12.0) 5 minutes. Use the quick-release method to release the pressure, then open the lid. Stir risotto until liquid has been absorbed, 2 to 3 minutes. Stir in Parmesan. Serve with additional Parmesan and cracked pepper, if desired.",
+	"dishImage":"https://raw.githubusercontent.com/masad6/IT315Project2/master/Rissoto.png",
+	"recipeSite":"https://www.goodhousekeeping.com/food-recipes/easy/a30224354/instant-pot-risotto-recipe/"},
 		
 	{"name":"Buttery Mashed Potatoes",
 	"ingredients":"4 pounds Yukon Gold potatoes, peeled, cut into 2” pieces \n1 tablespoon kosher salt, plus more \n1½ cups whole milk \n3 sprigs thyme (optional) \n2 bay leaves \n¾ cup (1½ sticks) unsalted butter, plus more for serving \nFreshly ground black pepper",
@@ -37,7 +43,7 @@
 	"steps":"1) Place the apples, cinnamon sticks, ginger, cloves, and salt in an 8-quart (7.5-liters) slow cooker. Pour the water over the apples.\n2) Cover and cook on high for at least 8 hours, or overnight (up to 24 hours).\n3) Remove the solids from the cider, pressing the pulp to extract as much liquid as possible.\n4) Whisk in the brown sugar until dissolved.\n5) Serve hot, or store in the refrigerator to serve later. Reheat before serving.",
 	"dishImage":"https://raw.githubusercontent.com/masad6/IT315Project2/master/AppleCider.png",
 	"recipeSite":"https://tasty.co/recipe/apple-cider"},
-
+],
 
 	"Status":"OK"
 
